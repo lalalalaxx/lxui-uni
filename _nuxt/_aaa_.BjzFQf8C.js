@@ -1,0 +1,1 @@
+import{E as o,J as s,c as t,o as a}from"./entry.DG9U7bQV.js";const c={class:""},p=o({__name:"[aaa]",setup(n){const e=s();return console.log(e),(r,_)=>(a(),t("div",c," 新闻详情 "))}});export{p as default};
