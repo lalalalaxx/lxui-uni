@@ -1,1 +1,0 @@
-import{E as o,c as t,d as s,L as a,o as n}from"./entry.C_pryM6h.js";const r={class:"demo"},l=o({__name:"demo",setup(c){return(e,d)=>(n(),t("div",r,[s(" 头部1 "),a(e.$slots,"default")]))}});export{l as default};
