@@ -1,0 +1,1 @@
+import{n as e,o as s,c as t,v as _,_ as n}from"./entry.CmxCvndW.js";const a={class:"code-box-lxx"},c=e({__name:"Code",setup(r){return(o,d)=>(s(),t("div",a,[_(o.$slots,"default",{},void 0)]))}}),l=n(c,[["__scopeId","data-v-bf97624a"]]);export{l as _};
